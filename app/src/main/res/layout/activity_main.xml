@@ -16,7 +16,7 @@
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent" android:id="@+id/world" android:textSize="24sp"/>
     <Button
-            android:text="click on me :)"
+            android:text="@string/MainButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/button" app:layout_constraintStart_toStartOf="parent"
